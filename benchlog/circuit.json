@@ -1,0 +1,12 @@
+{
+  "board": "bb830",
+  "components": [],
+  "schema_version": 1,
+  "wires": [
+    {
+      "a": "A34",
+      "b": "A3",
+      "id": "w1"
+    }
+  ]
+}
