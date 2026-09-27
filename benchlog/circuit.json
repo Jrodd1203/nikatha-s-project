@@ -10,6 +10,14 @@
       "type": "diode"
     },
     {
+      "id": "led1",
+      "pins": {
+        "anode": "H11",
+        "cathode": "H12"
+      },
+      "type": "led"
+    },
+    {
       "id": "pot1",
       "pins": {
         "1": "B57",
