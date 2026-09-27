@@ -2,6 +2,14 @@
   "board": "bb830",
   "components": [
     {
+      "id": "d1",
+      "pins": {
+        "anode": "H36",
+        "cathode": "H41"
+      },
+      "type": "diode"
+    },
+    {
       "id": "pot1",
       "pins": {
         "1": "B57",
