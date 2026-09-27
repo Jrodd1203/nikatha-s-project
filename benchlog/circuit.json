@@ -1,6 +1,16 @@
 {
   "board": "bb830",
-  "components": [],
+  "components": [
+    {
+      "id": "pot1",
+      "pins": {
+        "1": "B57",
+        "3": "F57",
+        "wiper": "D57"
+      },
+      "type": "potentiometer"
+    }
+  ],
   "schema_version": 1,
   "wires": [
     {
